@@ -1,6 +1,6 @@
 # ted-talks-data-visualization
 
-The goal wss to reverse-engineer a tableau visualization with a different dataset. This repository contains the data pre-processing notebooks.
+The goal was to reverse-engineer a tableau visualization with a different dataset. This repository contains the data pre-processing notebooks.
 
 Reference visualization: [Spotify Playlist Visualization](https://public.tableau.com/profile/adam.e.mccann#!/vizhome/FedTechPPDOffsitePlaylist/TechPPDOffsite)
 
